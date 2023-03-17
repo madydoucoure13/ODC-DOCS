@@ -1,0 +1,4 @@
+taille du cv 481/680
+right 336/680
+
+x -40 et y -318
